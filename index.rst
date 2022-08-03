@@ -7,7 +7,7 @@ Cánon Printer Error 5800
 	  :align: center    
 	  :height: 100px    
 	  :alt:    
-	  :target: https://kannonprintererror5800.readthedocs.io/en/latest/
+	  :target: https://computersolve.com/canon-printer-error-5800/
 
 
 **Cánon Printer Error 5800** means the waste ink counter was reset. (many brief bursts of light in the colors yellow and orange) It is necessary to reset Cánon printers rather frequently so that they will remember their original factory settings. The Cánon printer’s settings must be cleaned after a lot of printing. When the **Cánon Printer Error 5800** Solution needs to be reset, the lights on the front of the machine will often flash orange and green in an alternating pattern, and the monitor will display the error code 5800. If you want to fix the problem quickly, try the solutions advised by printer technical support.
